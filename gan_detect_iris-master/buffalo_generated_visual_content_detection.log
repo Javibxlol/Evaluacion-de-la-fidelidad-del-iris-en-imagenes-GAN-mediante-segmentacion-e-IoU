@@ -1,0 +1,59 @@
+INFO:buffalo_generated_visual_content_detection:IOU:0.2535
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/seed000000_iris_final.png
+INFO:buffalo_generated_visual_content_detection:IOU:0.2535
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/seed000000_iris_final.png
+INFO:buffalo_generated_visual_content_detection:IOU:0.1685
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/seed000003_iris_final.png
+ERROR:buffalo_generated_visual_content_detection:Your image contains more than one face. However, our software can only work on one face.
+ERROR:buffalo_generated_visual_content_detection:Your image contains more than one face. However, our software can only work on one face.
+INFO:buffalo_generated_visual_content_detection:IOU:0.1685
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/seed000003_iris_final.png
+INFO:buffalo_generated_visual_content_detection:IOU:0.6087
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/ppp_iris_final.png
+INFO:buffalo_generated_visual_content_detection:IOU:0.6087
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/ppp_iris_final.png
+INFO:buffalo_generated_visual_content_detection:IOU:0.6087
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/ppp_iris_final.png
+INFO:buffalo_generated_visual_content_detection:IOU:0.6087
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/ppp_iris_final.png
+INFO:buffalo_generated_visual_content_detection:IOU:0.6087
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/ppp_iris_final.png
+ERROR:buffalo_generated_visual_content_detection:Save result failed.
+ERROR:buffalo_generated_visual_content_detection:Your image has some problems. It may not contain faces.
+INFO:buffalo_generated_visual_content_detection:IOU:0.0244
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/bebe_iris_final.png
+INFO:buffalo_generated_visual_content_detection:IOU:0.0244
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/bebe_iris_final.png
+ERROR:buffalo_generated_visual_content_detection:Your image has some problems. It may not contain faces.
+INFO:buffalo_generated_visual_content_detection:IOU:0.5502
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/hombre_iris_final.png
+INFO:buffalo_generated_visual_content_detection:IOU:0.1250
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/seed0002_iris_final.png
+INFO:buffalo_generated_visual_content_detection:IOU:0.3000
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/seed0003_iris_final.png
+INFO:buffalo_generated_visual_content_detection:IOU:0.2884
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/seed0004_iris_final.png
+INFO:buffalo_generated_visual_content_detection:IOU:0.3548
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/seed0005_iris_final.png
+INFO:buffalo_generated_visual_content_detection:IOU:0.5535
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/seed0006_iris_final.png
+INFO:buffalo_generated_visual_content_detection:IOU:0.1875
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/seed0007_iris_final.png
+INFO:buffalo_generated_visual_content_detection:IOU:0.6579
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/seed0008_iris_final.png
+INFO:buffalo_generated_visual_content_detection:IOU:0.6579
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/seed0008_iris_final.png
+INFO:buffalo_generated_visual_content_detection:IOU:0.3830
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/seed0034_iris_final.png
+INFO:buffalo_generated_visual_content_detection:IOU:0.6683
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/seed0030_iris_final.png
+INFO:buffalo_generated_visual_content_detection:IOU:0.6500
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/seed0023_iris_final.png
+INFO:buffalo_generated_visual_content_detection:IOU:0.3023
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/seed0018_iris_final.png
+INFO:buffalo_generated_visual_content_detection:IOU:0.0641
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/seed0032_iris_final.png
+INFO:buffalo_generated_visual_content_detection:IOU:0.0641
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/seed0032_iris_final.png
+INFO:buffalo_generated_visual_content_detection:IOU:0.4559
+INFO:buffalo_generated_visual_content_detection:The result is saved in ./outputs/seed0025_iris_final.png
